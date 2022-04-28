@@ -1,0 +1,15 @@
+{
+  "name": "Kritchie's Notes",
+  "short_name": "Kritchie's Notes",
+  "start_url": "/kritchie.github.io/",
+  "scope": "/kritchie.github.io/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/kritchie.github.io/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
